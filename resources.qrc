@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/samples">
+        <file>samples/0003.jpg</file>
+        <file>samples/0010.jpg</file>
+        <file>samples/0033.jpg</file>
+        <file>samples/0065.jpg</file>
+        <file>samples/0074F.jpg</file>
+        <file>samples/0117.jpg</file>
+        <file>samples/0187.jpg</file>
+        <file>samples/0190.jpg</file>
+    </qresource>
+</RCC>
